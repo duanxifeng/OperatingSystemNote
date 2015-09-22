@@ -9,3 +9,4 @@
 * [virtualizationandthecloud](virtualizationandthecloud.md)
 * [multipleprocessorsystems](multipleprocessorsystems.md)
 * [security](security.md)
+* [资料](resource.md)
